@@ -1,2 +1,12 @@
 # neetcode-150
-Solve Pattern Based Problems
+
+Solve Leetcode problem grouped by patterns
+
+
+## Arrays and Hashing
+
+
+| Name         | Link                        | Solution     | Explanation  |
+|--------------|-----------------------------|--------------|--------------|
+| Contains Duplicate    | [LC-217](https://leetcode.com/problems/contains-duplicate/)           | [contains_duplicate.py](arrays&Hashing/contains_duplicate/contains_duplicate.py)| [contains_duplicate.md](arrays&Hashing/contains_duplicate/contains_duplicate.md) |
+| Valid Anagrams    | [LC-242](https://leetcode.com/problems/valid-anagram/)           | [valid_anagram.py](arrays&Hashing/valid_anagram/valid_anagram.py)| [valid_anagram.md](arrays&Hashing/valid_anagram/valid_anagram.md)|
